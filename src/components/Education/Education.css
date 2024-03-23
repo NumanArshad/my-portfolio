@@ -1,5 +1,6 @@
 .education {
-    min-height: 100vh;
+     /* min-height: 100vh;  */
+     padding-bottom: 5rem;
 }
 
 .education-body {
@@ -34,7 +35,7 @@
     align-items:flex-start;
     justify-content: flex-start;
     width: 90%;
-    height: 140px;
+    height: 150px;
     padding: 1.5rem;
     border-radius: 20px;
     margin-bottom: 1.5rem;

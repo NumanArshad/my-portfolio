@@ -11,17 +11,17 @@ function Main() {
                 <title>{headerData.name} - Porfolio</title>
             </Helmet>
 
-            <Navbar />        
+            <Navbar />
             <Landing />
             <About />
             <Education />
             <Skills />
             <Experience />
             <Projects />
-            <Achievement />
+            {/* <Achievement /> */}
             <Services />
-            <Testimonials />
-            <Blog />
+            {/* <Testimonials /> */}
+            {/* <Blog /> */}
             <Contacts />
             <Footer />
         </div>
